@@ -1,1 +1,1 @@
-This is a C++ version of ITMO course: data structure and algorithms.
+This is a C++ version of HDU-ITMO course: Data Structure And Algorithms.
